@@ -34,12 +34,12 @@ void MainWindow::on_m_btnOkay_clicked()
 
 void MainWindow::on_actionOpen_triggered()
 {
-    QMessageBox::information(this, "title", QString("open database"));
+    QMessageBox::information(this, "Opening Database", QString("open database"));
 }
 
 void MainWindow::on_actionClose_triggered()
 {
-    QMessageBox::information(this, "title", QString("close database"));
+    QMessageBox::information(this, "Closing Database", QString("close database"));
 }
 
 void MainWindow::on_actionExit_triggered()
