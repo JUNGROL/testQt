@@ -60,6 +60,7 @@ void MainWindow::on_m_btnOpenDialog_clicked()
 
 void MainWindow::on_m_btnCancel_clicked()
 {
+	// clear 
     ui->m_text->clear();
     m_str.clear();
 }
