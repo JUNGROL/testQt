@@ -26,3 +26,8 @@ Dialog::~Dialog()
 {
     delete ui;
 }
+
+void Dialog::on_btnDialogClose_clicked()
+{
+    Dialog::close();
+}

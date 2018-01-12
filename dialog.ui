@@ -125,9 +125,9 @@
       </spacer>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton_7">
+      <widget class="QPushButton" name="btnDialogClose">
        <property name="text">
-        <string>PushButton</string>
+        <string>Close</string>
        </property>
       </widget>
      </item>
