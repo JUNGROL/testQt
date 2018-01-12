@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pix/PNG/Button Add.png</file>
+        <file>pix/PNG/Button Cancel.png</file>
+        <file>pix/PNG/Button Close.png</file>
+        <file>pix/PNG/Button Delete.png</file>
+        <file>pix/PNG/Button Fast Forward.png</file>
+        <file>pix/PNG/Button First.png</file>
+        <file>pix/PNG/Button Help.png</file>
+        <file>pix/PNG/Button Info.png</file>
+        <file>pix/PNG/Button Last.png</file>
+        <file>pix/PNG/Button Next.png</file>
+        <file>pix/PNG/Button Pause.png</file>
+        <file>pix/PNG/Button Play.png</file>
+        <file>pix/PNG/Button Previous.png</file>
+        <file>pix/PNG/Button Refresh.png</file>
+        <file>pix/PNG/Button Reload.png</file>
+        <file>pix/PNG/Button Rewind.png</file>
+        <file>pix/PNG/Button Stop.png</file>
+    </qresource>
+</RCC>
