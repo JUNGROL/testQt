@@ -33,7 +33,7 @@
       <item row="4" column="0">
        <widget class="QLabel" name="m_lblPostleitzahl">
         <property name="text">
-         <string>Postleitzahl:</string>
+         <string>PLZ:</string>
         </property>
        </widget>
       </item>
@@ -177,12 +177,12 @@
      <x>0</x>
      <y>0</y>
      <width>537</width>
-     <height>21</height>
+     <height>30</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
     <property name="title">
-     <string>Database</string>
+     <string>Da&amp;tabase</string>
     </property>
     <addaction name="actionOpen"/>
     <addaction name="actionClose"/>
@@ -209,7 +209,7 @@
      <normaloff>:/images/pix/PNG/Button Add.png</normaloff>:/images/pix/PNG/Button Add.png</iconset>
    </property>
    <property name="text">
-    <string>Open</string>
+    <string>&amp;Open</string>
    </property>
   </action>
   <action name="actionClose">
@@ -218,7 +218,7 @@
      <normaloff>:/images/pix/PNG/Button Delete.png</normaloff>:/images/pix/PNG/Button Delete.png</iconset>
    </property>
    <property name="text">
-    <string>Close</string>
+    <string>&amp;Close</string>
    </property>
   </action>
   <action name="actionExit">
@@ -227,7 +227,7 @@
      <normaloff>:/images/pix/PNG/Button Previous.png</normaloff>:/images/pix/PNG/Button Previous.png</iconset>
    </property>
    <property name="text">
-    <string>Exit</string>
+    <string>&amp;Exit</string>
    </property>
   </action>
  </widget>
